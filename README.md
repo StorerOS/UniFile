@@ -34,11 +34,17 @@ In the future, we will adopt a decentralized incentive mechanism to encourage us
 
 ![image](https://user-images.githubusercontent.com/90947287/134317604-ea661641-e3e6-4034-96ef-a471a8b07c06.png)
 
-6. Return to [UniFile Website](http://14.215.91.114:8083/) enter your token and Submit it
+6. Return to [UniFile Website](http://14.215.91.114:8083/) enter your token and Login success
 
+![image](https://user-images.githubusercontent.com/90947287/134472642-8ef43ab0-3801-4f85-a2cc-2649e246660d.png)
 
+7. Upload file
 
-7. 
+![image](https://user-images.githubusercontent.com/90947287/134473921-8d453021-6788-4fa6-a092-4dbdb3fc3186.png)
+
+8. Click the `Download` to preview and download the file
+
+![image](https://user-images.githubusercontent.com/90947287/134473991-48c7439c-13a1-4513-b0b8-7546512e04c1.png)
 
 
 
