@@ -10,7 +10,7 @@ In the future, we will adopt a decentralized incentive mechanism to encourage us
 
 ## Get Start
 
-### Open [UniFile Website](http://14.215.91.114:8083/)
+### Open [UniFile Website](https://unifile.storeros.com:8443/)
 
 1. Create Web3.Storage API token
 
@@ -47,6 +47,14 @@ In the future, we will adopt a decentralized incentive mechanism to encourage us
 ![image](https://user-images.githubusercontent.com/90947287/134473991-48c7439c-13a1-4513-b0b8-7546512e04c1.png)
 
 
+## Run
+
+```
+yarn
+```
+```
+npm run dev
+```
 
 
 
