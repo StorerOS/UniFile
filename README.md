@@ -8,43 +8,45 @@ UniFile is tightly scoped for the present and more broadly thought out for the f
 
 In the future, we will adopt a decentralized incentive mechanism to encourage users to upload and use UniFile, and obtain a certain amount of Token income. And give Token more and more functions, such as decentralized governance, payment and other functions.
 
-## Get Start
+## Milestone 1
 
-### Open [UniFile Website](https://unifile.storeros.com)
+Users can register and log in by email in UniFile and have their own file management directory, which is convenient for users to find their uploaded files
 
-1. Create Web3.Storage API token
+## How to use
 
-![image](https://user-images.githubusercontent.com/90947287/134318352-b53d8e9c-0876-4fca-931b-fd5e3c07f9e4.png)
+### 1.Open UniFile Website: https://unifile.storeros.com
 
-2. Enter the email to Sign up/Login
+### 2.Register new account by email and login
 
-![image](https://user-images.githubusercontent.com/90947287/134300701-29b4cfbf-853c-46ed-b058-35488b235935.png)
+<img width="1405" alt="image" src="https://user-images.githubusercontent.com/90947287/156149028-55d6ddf4-4b67-480d-89d0-2302d45618a9.png">
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/90947287/156149395-47c3ec3d-3578-4881-aec3-bc1a38920fa0.png">
 
-3. Login from your email
+### 3.Bind [Web3.storage API token](https://web3.storage/account/) to your account
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/90947287/156151071-62c16f76-fb8b-46ce-83b0-cf01bbaf3e68.png">
 
-![image](https://user-images.githubusercontent.com/90947287/134312698-1bcebb5b-c321-4b10-aa6c-a3b7eb2cbc0c.png)
 
-4. Login success! Create your first API token
+### 4.Return home and Create bucket 
 
-![image](https://user-images.githubusercontent.com/90947287/134317401-49a1b090-2f5f-40ed-92d8-18ae3f3c4f09.png)
+You can manage files and buckets here
+<img width="1425" alt="image" src="https://user-images.githubusercontent.com/90947287/156149625-1d5213f5-dc24-4449-9875-6698beda04b1.png">
 
-![image](https://user-images.githubusercontent.com/90947287/134317582-a43bb4f0-602f-4421-83fa-adf794940290.png)
 
-5. Create API token success! Copy and remember the token.
+### 5.Enter bucket and upload file
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/90947287/156149730-c9ba95f4-23ac-4efb-844f-8f32dab14ac4.png">
 
-![image](https://user-images.githubusercontent.com/90947287/134317604-ea661641-e3e6-4034-96ef-a471a8b07c06.png)
+### 6.Upload successfully
 
-6. Return to [UniFile Website](https://unifile.storeros.com) enter your token and Login success
+you can download and delete the file you upload
 
-![image](https://user-images.githubusercontent.com/90947287/134472642-8ef43ab0-3801-4f85-a2cc-2649e246660d.png)
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/90947287/156152052-3112e68d-e73a-446d-9572-d6d94569ac9f.png">
 
-7. Upload file
+### 7. Click the `Download` to preview and download the file
 
-![image](https://user-images.githubusercontent.com/90947287/134473921-8d453021-6788-4fa6-a092-4dbdb3fc3186.png)
+<img width="1439" alt="image" src="https://user-images.githubusercontent.com/90947287/156152717-823e0b63-c64e-47f3-ad5d-f428a205a530.png">
 
-8. Click the `Download` to preview and download the file
 
-![image](https://user-images.githubusercontent.com/90947287/134473991-48c7439c-13a1-4513-b0b8-7546512e04c1.png)
+
+
 
 
 ## Run
