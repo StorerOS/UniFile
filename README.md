@@ -52,12 +52,15 @@ you can download and delete the file you upload
 ## Run
 
 ```
-yarn
+npm install
 ```
 ```
 npm run dev
 ```
-
+## Build
+```
+npm run build:prod
+```
 
 
 
