@@ -8,9 +8,6 @@ UniFile is tightly scoped for the present and more broadly thought out for the f
 
 In the future, we will adopt a decentralized incentive mechanism to encourage users to upload and use UniFile, and obtain a certain amount of Token income. And give Token more and more functions, such as decentralized governance, payment and other functions.
 
-## Milestone 1
-
-Users can register and log in by email in UniFile and have their own file management directory, which is convenient for users to find their uploaded files
 
 ## How to use
 
